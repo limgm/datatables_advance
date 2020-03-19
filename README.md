@@ -13,7 +13,7 @@ Main adv of creating an online *interactive* table:
 * Version control by github
 
 ## Usage
-To create the table, the only file needed is [index.html](https://github.com/limgm/datatables_basic/blob/master/index.html), refer to the code for more details.
+To create the table, the only file needed is [index.html](https://github.com/limgm/datatables_advance/blob/master/index.html), refer to the code for more details.
 
 To view the table online, github.io page is used to host the webpage.
 
